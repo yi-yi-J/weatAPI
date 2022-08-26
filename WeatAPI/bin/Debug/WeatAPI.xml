@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WeatAPI</name>
+    </assembly>
+    <members>
+        <member name="M:WeatAPI.Controllers.UserController.Getalluser">
+            <summary>
+            get all user
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WeatAPI.Controllers.UserController.Getid(System.Int32)">
+            <summary>
+            select id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WeatAPI.Controllers.UserController.AddUser(WeatAPImodels.User.AddUserP)">
+            <summary>
+            add user
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WeatAPI.Controllers.UserController.updatauser(System.Int32,WeatAPImodels.WeatAPIEntities.User)">
+            <summary>
+            updata user
+            </summary>
+        </member>
+        <member name="M:WeatAPI.Controllers.UserController.Deleteuser(System.Int32)">
+            <summary>
+            deldete user
+            </summary>
+            <param name="id"></param>
+        </member>
+    </members>
+</doc>

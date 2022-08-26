@@ -1,0 +1,12 @@
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\bin\Debug\net5.0\WeatAPImodels.deps.json
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\bin\Debug\net5.0\WeatAPImodels.dll
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\bin\Debug\net5.0\ref\WeatAPImodels.dll
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\bin\Debug\net5.0\WeatAPImodels.pdb
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\WeatAPImodels.GeneratedMSBuildEditorConfig.editorconfig
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\WeatAPImodels.AssemblyInfoInputs.cache
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\WeatAPImodels.AssemblyInfo.cs
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\WeatAPImodels.csproj.CoreCompileInputs.cache
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\WeatAPImodels.dll
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\ref\WeatAPImodels.dll
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\WeatAPImodels.pdb
+H:\001_suceyuan\test_.net\tes1\WebAPI\WeatAPI\WeatAPImodels\obj\Debug\net5.0\WeatAPImodels.csproj.AssemblyReference.cache
